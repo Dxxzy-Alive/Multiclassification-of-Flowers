@@ -1,0 +1,9 @@
+ECHO is on.
+
+__pycache__/
+
+
+.venv/
+
+
+.idea/
