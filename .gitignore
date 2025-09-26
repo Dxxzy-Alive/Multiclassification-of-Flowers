@@ -5,5 +5,7 @@ __pycache__/
 
 .venv/
 
+flower_photos/
+
 
 .idea/
